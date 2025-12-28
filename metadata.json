@@ -1,0 +1,8 @@
+{
+  "name": "ZamChat",
+  "description": "A high-performance gaming chat and voice platform featuring AI-powered companions, profile customization, and media sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
